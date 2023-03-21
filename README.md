@@ -2,9 +2,6 @@
 ## un kit di orientamento per la sostenibilità digitale
 #### Tesi di Laurea Magistrale di Arianna Terenzi 
 
-![1-DalleCardall'Homepage](https://user-images.githubusercontent.com/101118175/226267544-df380b40-f671-409b-8832-3725ef890c12.png)
-
-
 La trasformazione digitale e la tematica ambientale sono fenomeni 
 che stanno apportando cambiamenti significativi nel contesto contemporaneo 
 ponendo nuovi problemi etici e mettendo in discussione gli approcci 
@@ -15,6 +12,8 @@ si è indagato il ruolo dei dati all’interno di un processo progettuale per ca
 come la consapevolezza sulla tematica ambientale possa aumentare. Da qui parte 
 il progetto che si impegna ad esplorare come le aziende possono allineare i propri 
 sforzi per fornire servizi digitali che supportano un’economia sostenibile. 
+
+![1-DalleCardall'Homepage](https://user-images.githubusercontent.com/101118175/226267544-df380b40-f671-409b-8832-3725ef890c12.png)
 
 Il progetto, alla luce del tirocinio curriculare per la tesi svolto nell'agenzia Tangible, 
 si basa sullo sviluppo di un kit di progettazione basato su una nuova sezione ambientale 
