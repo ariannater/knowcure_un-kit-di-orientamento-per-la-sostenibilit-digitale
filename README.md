@@ -1,4 +1,4 @@
-# knowcure
+# know-cure
 ## un kit di orientamento per la sostenibilità digitale
 #### Tesi di Laurea Magistrale di Arianna Terenzi 
 
