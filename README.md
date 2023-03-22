@@ -29,9 +29,10 @@ L’attività abilitata da questo kit sarà utile a formare un report sul proget
 lo stato del servizio attraverso le azioni eseguite durante la fase di progettazione, 
 riconoscendo così tutto l’ecosistema che ha attorno. 
 
+![QR CodeHOME](https://user-images.githubusercontent.com/101118175/226850413-435a75c2-5d9a-4b8b-86e5-207630476cd7.png)
+
 Con questa tesi ci si chiede se con i giusti strumenti si possa generare 
-un nuovo modello valoriale della trasformazione digitale, più equo e più sostenibile 
-anche per l’ambiente, che getti le basi per trasformare alcuni degli approcci 
+un nuovo modello valoriale della trasformazione digitale, più equo e più sostenibile anche per l’ambiente, che getti le basi per trasformare alcuni degli approcci 
 del tessuto socio-culturale in cui siamo immersi, e aiuti la società a crescere 
 con la tecnologia, non per la tecnologia.
 
