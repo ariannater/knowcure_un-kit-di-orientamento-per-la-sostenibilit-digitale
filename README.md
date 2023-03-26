@@ -1,4 +1,4 @@
-# [know-cure] (https://www.figma.com/file/mWOMDE4lXk9KxvYCd2WRHf/kit-di-orientamento-per-la-sostenibilit%C3%A0-digitale?node-id=10%3A755&t=6XqELLcNj4IQHhHu-1) 
+# [know-cure](https://www.figma.com/file/mWOMDE4lXk9KxvYCd2WRHf/kit-di-orientamento-per-la-sostenibilit%C3%A0-digitale?node-id=10%3A755&t=6XqELLcNj4IQHhHu-1) 
 ## un kit di orientamento per la sostenibilità digitale
 #### Tesi di Laurea Magistrale di Arianna Terenzi 
 
