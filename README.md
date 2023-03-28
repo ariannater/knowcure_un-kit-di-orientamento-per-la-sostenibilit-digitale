@@ -15,7 +15,7 @@ il progetto che si impegna ad esplorare come le aziende possono allineare i prop
 sforzi per fornire servizi digitali che supportano un’economia sostenibile. 
 
 ![1-DalleCardall'Homepage](https://user-images.githubusercontent.com/101118175/226267544-df380b40-f671-409b-8832-3725ef890c12.png)
-<sub>[FIG.01 Suggerimenti di sostenibilità attraverso card fisiche e corrispettiva piattaforma digitale]</sub> 
+<sub>[*FIG.01 Suggerimenti di sostenibilità attraverso card fisiche e corrispettiva piattaforma digitale*]</sub> 
 
 Il progetto, alla luce del tirocinio curriculare per la tesi svolto nell'agenzia [Tangible](https://tangible.is/), 
 si basa sullo sviluppo di un kit di progettazione basato su una nuova sezione ambientale 
@@ -38,7 +38,7 @@ riconoscendo così tutto l’ecosistema che ha attorno. [Attività collaborativa
 
 https://user-images.githubusercontent.com/101118175/228155272-683f80d2-1259-4540-83c5-83f8c5b2623a.mov
 
-<sub>[Fig.03 Primo canvas in cui i progettisti sono chiamati a riconoscere la filiera del proprio prodotto]</sub> 
+<sub>[*Fig.03 Primo canvas in cui i progettisti sono chiamati a riconoscere la filiera del proprio prodotto*]</sub> 
 
 
 Con questa tesi ci si chiede se con i giusti strumenti si possa generare 
