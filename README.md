@@ -36,6 +36,7 @@ riconoscendo così tutto l’ecosistema che ha attorno.
 
 
 https://user-images.githubusercontent.com/101118175/228155272-683f80d2-1259-4540-83c5-83f8c5b2623a.mov
+
 <sub>[Fig.03 Primo canvas in cui i progettisti sono chiamati a riconoscere la filiera del proprio prodotto]</sub> 
 
 
