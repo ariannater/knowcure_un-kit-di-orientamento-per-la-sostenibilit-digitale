@@ -32,7 +32,7 @@ utilizzati dai team per riconoscere la filiera del proprio servizio e raggiunger
 
 L’attività abilitata da questo kit sarà utile a formare un report sul progetto per tracciare 
 lo stato del servizio attraverso le azioni eseguite durante la fase di progettazione, 
-riconoscendo così tutto l’ecosistema che ha attorno. 
+riconoscendo così tutto l’ecosistema che ha attorno. [Attività collaborativa](https://www.figma.com/file/KvFCoaIc2jLMqCIZxAQagA/Template-KIT?node-id=0%3A1&t=0lccjoohwUiWe1Ax-1)
 
 
 https://user-images.githubusercontent.com/101118175/228155272-683f80d2-1259-4540-83c5-83f8c5b2623a.mov
