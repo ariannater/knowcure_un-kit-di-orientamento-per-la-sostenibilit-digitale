@@ -1,6 +1,7 @@
 # [know-cure](https://www.figma.com/file/mWOMDE4lXk9KxvYCd2WRHf/kit-di-orientamento-per-la-sostenibilit%C3%A0-digitale?node-id=10%3A755&t=6XqELLcNj4IQHhHu-1) 
 ## un kit di orientamento per la sostenibilità digitale
 #### Tesi di Laurea Magistrale di [Arianna Terenzi](https://www.linkedin.com/in/arianna-terenzi-4989a4201/) 
+#### Relatore: Daniele Tabellini
 
 La trasformazione digitale e la tematica ambientale sono fenomeni 
 che stanno apportando cambiamenti significativi nel contesto contemporaneo 
