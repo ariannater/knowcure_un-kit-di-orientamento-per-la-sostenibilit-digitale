@@ -14,7 +14,7 @@ il progetto che si impegna ad esplorare come le aziende possono allineare i prop
 sforzi per fornire servizi digitali che supportano un’economia sostenibile. 
 
 ![1-DalleCardall'Homepage](https://user-images.githubusercontent.com/101118175/226267544-df380b40-f671-409b-8832-3725ef890c12.png)
-#### [suggerimenti di sostenibilità attraverso card fisiche e corrispettiva piattaforma digitale]
+####### [FIG.01 Suggerimenti di sostenibilità attraverso card fisiche e corrispettiva piattaforma digitale]
 
 Il progetto, alla luce del tirocinio curriculare per la tesi svolto nell'agenzia [Tangible](https://tangible.is/), 
 si basa sullo sviluppo di un kit di progettazione basato su una nuova sezione ambientale 
@@ -24,15 +24,18 @@ le scelte di progettazione e sviluppo. Il kit vuole quindi essere di supporto al
 di una nuova sezione, identificata attraverso la “card sostenibilità”, con un framework collaborativo, 
 integrabile e aperto, adattabile a tutte le soluzioni di progettazione collaborativa 
 e guidato da una serie di suggerimenti di sostenibilità per il digitale, che verranno 
-utilizzati dai team per riconoscere la filiera del proprio servizio e raggiungere gli obiettivi prefissati. 
+utilizzati dai team per riconoscere la filiera del proprio servizio e raggiungere gli obiettivi prefissati.
+
 ![QR CodeHOME](https://user-images.githubusercontent.com/101118175/226850413-435a75c2-5d9a-4b8b-86e5-207630476cd7.png)
+####### [Fig.04 QR Prototipo piattaforma]
+
 L’attività abilitata da questo kit sarà utile a formare un report sul progetto per tracciare 
 lo stato del servizio attraverso le azioni eseguite durante la fase di progettazione, 
 riconoscendo così tutto l’ecosistema che ha attorno. 
 
 
 https://user-images.githubusercontent.com/101118175/228155272-683f80d2-1259-4540-83c5-83f8c5b2623a.mov
-#### [primo canvas in cui i progettisti sono chiamati a riconoscere la filiera del proprio prodotto]
+####### [Fig.03 Primo canvas in cui i progettisti sono chiamati a riconoscere la filiera del proprio prodotto]
 
 
 Con questa tesi ci si chiede se con i giusti strumenti si possa generare 
