@@ -28,7 +28,6 @@ e guidato da una serie di suggerimenti di sostenibilità per il digitale, che ve
 utilizzati dai team per riconoscere la filiera del proprio servizio e raggiungere gli obiettivi prefissati.
 
 ![QR CodeHOME](https://user-images.githubusercontent.com/101118175/226850413-435a75c2-5d9a-4b8b-86e5-207630476cd7.png)
-
 <sub>[*Fig.04 QR Prototipo piattaforma*]</sub> 
 
 L’attività abilitata da questo kit sarà utile a formare un report sul progetto per tracciare 
