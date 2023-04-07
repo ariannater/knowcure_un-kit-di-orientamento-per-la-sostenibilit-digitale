@@ -19,10 +19,10 @@ sforzi per fornire servizi digitali che supportano un’economia sostenibile.
 
 Il progetto, alla luce del tirocinio curriculare per la tesi svolto nell'agenzia [Tangible](https://tangible.is/), 
 si basa sullo sviluppo di un kit di progettazione basato su una nuova sezione ambientale 
-all’interno del progetto dell’[Ethical Compass](https://tangible.is/ethical-compass), un workshop attento a esplorare il progetto per il digitale da più punti di vista etici, per evidenziare anche le parti più nascoste 
+dedicato al progetto [Ethical Compass](https://tangible.is/ethical-compass), un workshop attento a esplorare il progetto per il digitale da più punti di vista etici, per evidenziare anche le parti più nascoste 
 e insidiose per un progettista, attraverso 5 tematiche principali, utili a indirizzare 
 le scelte di progettazione e sviluppo. Il kit vuole quindi essere di supporto all’inserimento 
-di una nuova sezione, identificata attraverso la “card sostenibilità”, con un framework collaborativo, 
+della tematica ambientale nelle aziende attraverso un framework collaborativo, 
 integrabile e aperto, adattabile a tutte le soluzioni di progettazione collaborativa 
 e guidato da una serie di suggerimenti di sostenibilità per il digitale, che verranno 
 utilizzati dai team per riconoscere la filiera del proprio servizio e raggiungere gli obiettivi prefissati.
