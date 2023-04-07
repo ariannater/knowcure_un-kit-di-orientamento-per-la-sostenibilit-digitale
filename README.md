@@ -1,6 +1,6 @@
 # [know-cure](https://www.figma.com/proto/mWOMDE4lXk9KxvYCd2WRHf/kit-di-orientamento-per-la-sostenibilit%C3%A0-digitale?page-id=10%3A756&node-id=166-7748&viewport=-692%2C793%2C0.09&scaling=scale-down&starting-point-node-id=166%3A7748) 
 ## un kit di orientamento per la sostenibilità digitale
-#### Tesi di Laurea Magistrale in Interaction & Experience Design di [Arianna Terenzi](https://www.linkedin.com/in/arianna-terenzi-4989a4201/) presso l'Università della Repubblica di San Marino. 
+#### Tesi di Laurea Magistrale in Interaction & Experience Design di [Arianna Terenzi](https://www.linkedin.com/in/arianna-terenzi-4989a4201/) presso l'[Università della Repubblica di San Marino](https://design.unirsm.sm/). 
 #### Relatore: [Daniele Tabellini](https://github.com/Fupete)
 
 La trasformazione digitale e la tematica ambientale sono fenomeni 
