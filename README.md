@@ -28,7 +28,7 @@ e guidato da una serie di suggerimenti di sostenibilità per il digitale, che ve
 utilizzati dai team per riconoscere la filiera del proprio servizio e raggiungere gli obiettivi prefissati.
 
 ![QR CodeHOME](https://user-images.githubusercontent.com/101118175/226850413-435a75c2-5d9a-4b8b-86e5-207630476cd7.png)
-<sub>[*Fig.04 QR Prototipo piattaforma*]</sub> 
+<sub>[*Fig.04 QR [Prototipo piattaforma](https://www.figma.com/proto/mWOMDE4lXk9KxvYCd2WRHf/kit-di-orientamento-per-la-sostenibilit%C3%A0-digitale?page-id=10%3A756&node-id=166-7748&viewport=-43%2C620%2C0.07&scaling=scale-down&starting-point-node-id=166%3A7748&show-proto-sidebar=1)*]</sub> 
 
 L’attività abilitata da questo kit sarà utile a formare un report sul progetto per tracciare 
 lo stato del servizio attraverso le azioni eseguite durante la fase di progettazione, 
